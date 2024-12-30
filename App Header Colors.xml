@@ -1,0 +1,10 @@
+﻿<AppHeaderColors
+  background="#53B1D8"
+  foreground="#FFFFFF"
+  backgroundHover="#E06C0A"
+  foregroundHover="#FFFFFF"
+  backgroundPressed="#53B1D8"
+  foregroundPressed="#FFFFFF"
+  backgroundSelected="#153D23"
+  foregroundSelected="#986FEB"
+/>
